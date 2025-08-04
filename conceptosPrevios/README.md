@@ -43,3 +43,5 @@ si sale error
   pip freeze > requirements.txt
  clonar repositorio
  https://github.com/lfernandogh75/IA_G296CAMPISTAS.git
+ como desactivar el entorno virtual
+  >deactivate
