@@ -41,3 +41,5 @@ si sale error
 
   crear archivo requirements.txt
   pip freeze > requirements.txt
+ clonar repositorio
+ https://github.com/lfernandogh75/IA_G296CAMPISTAS.git
