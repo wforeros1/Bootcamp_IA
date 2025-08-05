@@ -1,6 +1,8 @@
-import pandas as pd
+# Introducción Pandas
+Python 3.11
 
-# Creación de objeto Serie
+import pandas as pd # pip install pandas
+## Creación de objeto Serie
 s= pd.Series([2,4,6,8,10])
 print(s)
 
