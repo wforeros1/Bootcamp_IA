@@ -45,3 +45,7 @@ si sale error
  https://github.com/lfernandogh75/IA_G296CAMPISTAS.git
  como desactivar el entorno virtual
   >deactivate
+
+  recuperar librerias
+  con env ejecutando
+  pip install -r requirements
