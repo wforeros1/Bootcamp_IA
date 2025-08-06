@@ -7,6 +7,7 @@ s= pd.Series([2,4,6,8,10])
 print(s)
 
 # Creacion de un objeto series inicializado con un diccionario de python
+
 altura = {"Santioago": 180, "Marcelo": 172, "Luis": 174, "Alejandra":160 }
 s=pd.Series(altura)
 print(s)
@@ -21,3 +22,4 @@ print(s)
 #creacion de un objeto series inicializandolo con un escalar 
 s=pd.series(34,{"test1", "test2","test3"})
 print(s)
+
